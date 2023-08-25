@@ -1,3 +1,3 @@
-const insilent = (silent) => silent.toUpperCase();
-console.log(insilent("hello"));
+const insilent = (silent) => silent.toLowerCase();
+console.log(insilent("HELLO"));
 
